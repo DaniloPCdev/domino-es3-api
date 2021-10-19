@@ -1,0 +1,27 @@
+{
+  "name": "domino-es3-api",
+  "version": "0.1.0",
+  "description": "Simples API para projeto de Engenharia 3 de um jogo online de dominó",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloPCdev/domino-es3-api.git"
+  },
+  "author": "DaniloPCdev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DaniloPCdev/domino-es3-api/issues"
+  },
+  "homepage": "https://github.com/DaniloPCdev/domino-es3-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
