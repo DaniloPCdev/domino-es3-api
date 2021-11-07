@@ -4,8 +4,8 @@
   "description": "Simples API para projeto de Engenharia 3 de um jogo online de dominó",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "start:dev": "nodemon src/index.js",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
